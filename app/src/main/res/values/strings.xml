@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lạc Trôi Music</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_allsong_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="lactroimusic">lactroiMusic</string>
+    <string name="gui_anh_xa_nho">Gui anh xa nho</string>
+    <string name="CHANNEL_ID">HELLO</string>
+</resources>

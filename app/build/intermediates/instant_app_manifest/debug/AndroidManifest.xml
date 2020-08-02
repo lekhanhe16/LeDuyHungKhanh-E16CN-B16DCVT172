@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ptit.kl.musicplayer"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="ptit.kl.musicplayer.View.WebSearch" />
+        <activity android:name="ptit.kl.musicplayer.View.AddToPlayList" />
+        <activity android:name="ptit.kl.musicplayer.View.ListMusic" />
+        <activity
+            android:name="ptit.kl.musicplayer.View.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ptit.kl.musicplayer.View.MainPlayer"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <service
+            android:name="ptit.kl.musicplayer.Service.MusicService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name="ptit.kl.musicplayer.View.Search"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

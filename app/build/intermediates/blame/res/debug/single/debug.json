@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_round_layout_background.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/round_layout_background.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_previous2.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/previous2.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_play2.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/play2.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_fragment_album_list.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/fragment_album_list.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_fragment_artist__list.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/fragment_artist__list.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_web_search.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/activity_web_search.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_grid_album.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/grid_album.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_add_to_play_list.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/activity_add_to_play_list.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_musicnote.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/musicnote.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_popup_menu.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/popup_menu.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_playlist.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/playlist.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_fragment_all__song.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/fragment_all__song.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_artist.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/artist.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_shuffle.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/shuffle.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_plus.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_search.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_musicnode.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/musicnode.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_song.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/song.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_nextbutton.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/nextbutton.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_pause2.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/pause2.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_shuffle2.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/shuffle2.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_previoustrack.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/previoustrack.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_singer.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/singer.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_pausebutton.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/pausebutton.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_next2.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/next2.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_popup_shape.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/popup_shape.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_popup_newalb.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/popup_newalb.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_list_music.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/activity_list_music.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/drawable_playbutton.png.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/drawable/playbutton.png"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_main_player.xml.flat",
+        "source": "/home/kl/AndroidStudioProjects/MyApplication-20200314T015821Z-001/MyApplication/app/src/main/res/layout/activity_main_player.xml"
+    }
+]

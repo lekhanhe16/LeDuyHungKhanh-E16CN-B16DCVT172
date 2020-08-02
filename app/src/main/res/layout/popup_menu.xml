@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+
+    android:background="@drawable/popup_shape"
+    android:layout_height="wrap_content">
+    <Button
+        android:layout_width="300dp"
+        android:layout_marginTop="8dp"
+
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Delete"
+
+        android:id="@+id/delete_song"
+        android:textAlignment="viewStart"
+        tools:ignore="RtlCompat" />
+    <Button
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+
+        android:layout_height="wrap_content"
+
+        android:text="Add to Playlist"
+        android:id="@+id/add_to_playlist"
+        android:textAlignment="textStart"
+        tools:ignore="RtlCompat" />
+    <Button
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="Search for video"
+        android:id="@+id/search_popup"
+        android:textAlignment="textStart"
+        android:layout_marginBottom="8dp"
+        tools:ignore="RtlCompat" />
+</LinearLayout>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:weightSum="10"
+    android:background="@android:color/background_dark"
+    tools:context=".View.MainActivity"
+
+    >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@android:color/background_dark">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginStart="14dp"
+                android:layout_marginEnd="15dp"
+                android:text="@string/lactroimusic"
+                android:textColor="@android:color/holo_orange_light"
+                android:textSize="18sp" />
+
+
+            <ImageButton
+                android:id="@+id/actionbarBtnSearch"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginStart="55dp"
+                android:background="@android:color/background_dark"
+                android:contentDescription="@string/todo"
+                android:src="@android:drawable/ic_menu_search" />
+
+            <ImageButton
+                android:id="@+id/btnShuffle"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginStart="17dp"
+                android:background="@android:color/holo_orange_light"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/shuffle" />
+        </LinearLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10">
+
+        <android.support.v4.view.PagerTabStrip
+            android:id="@+id/viewTabStrip1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:textAlignment="center"
+            android:background="@android:color/holo_orange_light"
+            >
+
+        </android.support.v4.view.PagerTabStrip>
+
+    </android.support.v4.view.ViewPager>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/round_layout_background"
+        android:id="@+id/rl1"
+        >
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/musicnode"
+            android:id="@+id/imgInbar"
+            android:layout_marginStart="23dp"
+            android:contentDescription="@string/todo" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:id="@+id/titInbar"
+            android:layout_toEndOf="@+id/imgInbar"
+            android:layout_height="27dp"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:layout_marginStart="10dp"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_toEndOf="@+id/imgInbar"
+            android:layout_height="23dp"
+            android:id="@+id/artistInbar"
+            android:gravity="center"
+            android:layout_below="@+id/titInbar"
+            android:textSize="13sp"
+            android:textColor="@android:color/black"
+            android:layout_marginStart="10dp"
+            />
+
+        <ImageButton
+            android:id="@+id/preInbar"
+
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="35dp"
+            android:layout_toEndOf="@+id/titInbar"
+
+            android:background="@android:color/holo_orange_light"
+            android:contentDescription="@string/todo"
+            android:src="@drawable/previous2" />
+
+        <ImageButton
+            android:id="@+id/playInbar"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_toEndOf="@+id/preInbar"
+            android:background="@android:color/holo_orange_light"
+            android:contentDescription="@string/todo"
+            android:src="@drawable/play2" />
+
+        <ImageButton
+            android:id="@+id/nextInbar"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerInParent="true"
+            android:layout_toEndOf="@+id/playInbar"
+            android:background="@android:color/holo_orange_light"
+            android:contentDescription="@string/todo"
+            android:src="@drawable/next2" />
+    </RelativeLayout>
+
+</LinearLayout>
